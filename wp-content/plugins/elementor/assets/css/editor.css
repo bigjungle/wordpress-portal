@@ -1,4 +1,4 @@
-/*! elementor - v2.6.0 - 09-07-2019 */
+/*! elementor - v2.6.1 - 10-07-2019 */
 @charset "UTF-8";
 *, :before, :after {
   margin: 0;
@@ -2009,7 +2009,7 @@ select {
             box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.4); }
 
 .elementor-control-type-number .elementor-control-input-wrapper {
-  max-width: 80px; }
+  max-width: 25%; }
 
 .elementor-control-type-order .elementor-control-oreder-wrapper {
   display: -webkit-box;
@@ -4552,8 +4552,8 @@ body:not(.elementor-device-desktop) #elementor-notice-bar {
       -ms-flex-pack: justify;
           justify-content: space-between; }
   #elementor-icons-manager__upload__title {
-    color: #c2cbd2;
-    font-size: 10px;
+    color: #a4afb7;
+    font-size: 11px;
     text-transform: uppercase; }
 
 #elementor-icons-manager__main {

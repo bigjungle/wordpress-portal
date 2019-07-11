@@ -1,4 +1,4 @@
-/*! elementor - v2.6.0 - 09-07-2019 */
+/*! elementor - v2.6.1 - 10-07-2019 */
 @charset "UTF-8";
 .ui-resizable-n {
   top: -5px; }
@@ -891,7 +891,7 @@
             box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.4); }
 
 .elementor-control-type-number .elementor-control-input-wrapper {
-  max-width: 80px; }
+  max-width: 25%; }
 
 .elementor-control-type-order .elementor-control-oreder-wrapper {
   display: -webkit-box;
